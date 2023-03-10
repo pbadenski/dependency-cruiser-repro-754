@@ -1,0 +1,19 @@
+{
+  "name": "754",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js"
+  },
+  "author": "Sander Verweij (https://sverweij.github.io/)",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "dependency-cruiser": "^12.10.0"
+  }
+}
